@@ -1,0 +1,9 @@
+Package: com.keaton.rereminders
+Name: ReReminders
+Depends: mobilesubstrate, firmware(>= 13.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Enables iCloud only features for the Reminders app.
+Maintainer: keaton
+Author: keaton
+Section: Tweaks
